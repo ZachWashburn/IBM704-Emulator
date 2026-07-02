@@ -1,0 +1,12 @@
+CMakeFiles/
+cmake-build-debug/
+*.bin
+src/CMakeFiles/
+src/cmake-build-debug/
+*IBM704*
+*~
+CMakeCache.txt
+*cmake_install*
+src/cmake_install.cmake
+Makefile
+src/Makefile
